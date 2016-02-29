@@ -1,11 +1,11 @@
 {
-  "name": "toolbox-loader",
+  "name": "russian-toolbox-loader",
   "version": "0.0.3",
-  "description": "A loader used to add SASS themes for React Toolbox",
+  "description": "A loader used to add SASS themes for Russian React Toolbox",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-toolbox/toolbox-loader.git"
+    "url": "https://github.com/kodermax/russian-toolbox-loader.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
