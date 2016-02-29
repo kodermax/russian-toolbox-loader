@@ -1,4 +1,4 @@
-var HEADING = '@import "~react-toolbox/lib/_colors"; \n $theme-building: true;';
+var HEADING = '@import "~russian-react-toolbox/lib/_colors"; \n $theme-building: true;';
 var DEFAULT_NAME = 'theme.scss';
 var path = require('path');
 var fs = require('fs');
