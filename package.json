@@ -1,19 +1,30 @@
 {
   "name": "russian-toolbox-loader",
-  "version": "0.0.3",
-  "description": "A loader used to add SASS themes for Russian React Toolbox",
+  "version": "1.0.0",
+  "description": "A webpack loader to add custom theming variables to your React Toolbox Components build process. You can install it as an npm package:",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kodermax/russian-toolbox-loader.git"
+  "dependencies": {},
+  "devDependencies": {
+    "sass-loader": "*",
+    "webpack": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "sass-loader": "*",
-    "webpack": "*"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodermax/russian-toolbox-loader.git"
   },
-  "author": "Javi Velasco <javier.velasco86@gmail.com> (http://javivelasco.com/)",
-  "license": "ISC"
+  "keywords": [
+    "russian",
+    "tolbox",
+    "loader",
+    "react"
+  ],
+  "author": "kodermax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodermax/russian-toolbox-loader/issues"
+  },
+  "homepage": "https://github.com/kodermax/russian-toolbox-loader#readme"
 }
